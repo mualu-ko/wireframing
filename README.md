@@ -35,3 +35,23 @@ Shows where text, images, videos, or forms will appear.
 Indicates interactive elements such as buttons, search bars, or dropdowns.  
 - **Example:** A "Sign Up" button placed prominently near the top of the page.  
 - **Contribution:** Highlights core actions users should take, making the interface more intuitive and goal-driven.  
+
+---
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+- **Description:** Simple sketches or digital outlines with minimal detail. They use boxes, lines, and placeholders to represent layout and functionality.  
+- **When to Use:** Early in the design process to brainstorm ideas, align on structure, and quickly explore different layouts without focusing on aesthetics.  
+
+### High-Fidelity Wireframes
+- **Description:** Detailed representations of the final design, often including colors, typography, images, and real content. High-fidelity wireframes are sometimes referred to as **mockups**.  
+- **When to Use:** Later in the design process to present a near-final version of the interface to stakeholders, refine visual design, and prepare for development.  
+
+---
+
+## Wireframe Used in This Project
+
+The wireframe provided here is a **High-Fidelity Wireframe (Mockup)**.  
+- It closely resembles the final product, including realistic content, visual styling, and design elements.  
+- This type of wireframe is useful for communicating the **final look and feel** of the design and ensuring all stakeholders agree on details before moving to implementation.  

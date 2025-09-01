@@ -55,3 +55,23 @@ Indicates interactive elements such as buttons, search bars, or dropdowns.
 The wireframe provided here is a **High-Fidelity Wireframe (Mockup)**.  
 - It closely resembles the final product, including realistic content, visual styling, and design elements.  
 - This type of wireframe is useful for communicating the **final look and feel** of the design and ensuring all stakeholders agree on details before moving to implementation.  
+
+---
+
+## Popular Wireframing Tools
+
+There are many tools available for creating wireframes, each offering unique features and workflows. Some commonly used tools include:
+- **Balsamiq** – Great for low-fidelity sketches and quick brainstorming.  
+- **Adobe XD** – Useful for high-fidelity wireframes and interactive prototypes.  
+- **Sketch** – Popular among Mac users for UI/UX design.  
+- **Figma** – A collaborative, cloud-based design tool (recommended).  
+
+### Why Figma is Recommended
+Figma stands out as a powerful and versatile tool for wireframing because:
+- **Collaboration:** Multiple team members can work on the same file in real time, similar to Google Docs.  
+- **Cross-platform:** Works directly in the browser or as a desktop/mobile app, making it accessible on any device.  
+- **Versatility:** Supports both low-fidelity wireframes and high-fidelity mockups with ease.  
+- **Components & Reusability:** Designers can create reusable components (buttons, navigation bars, etc.) for consistency.  
+- **Prototyping:** Built-in prototyping features allow users to simulate navigation and user flows without switching tools.  
+
+Because of its ease of use, collaboration features, and scalability, **Figma is highly recommended for both beginners and professional designers**.  
